@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">game1</string>
+    <string name="hello_world">Hello world!</string>
+    <color name="darvo">#4A1F0F</color>
+    <color name="sivo">#4A1F0F</color>
+   
+
+</resources>
